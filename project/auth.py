@@ -13,4 +13,4 @@ def signup():
 
 @auth.route('/logout')
 def logout():
-    return 'Logout'
+    return 'This is a Logout page'
