@@ -14,6 +14,9 @@ In this project, I:
 * Used information from the user’s account to display on the profile page
 
 
+## Improvement
+What I created in this tutorial will be sufficient for smaller apps, but to have more functionality from the beginning, I will need to learn how to use either the Flask-User or Flask-Security libraries, which are both built on top of the Flask-Login library.
+
 
 ## Reference(s)
 To implement this project, I followed this [tutorial](https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-your-app-with-flask-login)
